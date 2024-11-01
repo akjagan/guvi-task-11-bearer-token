@@ -1,0 +1,25 @@
+{
+  "name": "guvi-task-12",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jagan",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.8.0",
+    "nanoid": "^5.0.8",
+    "nodemon": "^3.1.7",
+    "shortid": "^2.2.16",
+    "uuid": "^11.0.2"
+  }
+}
